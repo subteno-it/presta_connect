@@ -1,0 +1,9 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+prestashop_connector.egg-info/PKG-INFO
+prestashop_connector.egg-info/SOURCES.txt
+prestashop_connector.egg-info/dependency_links.txt
+prestashop_connector.egg-info/requires.txt
+prestashop_connector.egg-info/top_level.txt
